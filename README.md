@@ -6,7 +6,7 @@ This repo contains all of the files for all of the free tier websites I've devel
 
 ### Websites
 Below, is a list of all of the websites I've created for free for Clients:  
-[LuxuryWatchDistro](https://dev-fortitude.github.io/Free-Websites/LuxuryWatchDistro): I met this Client on SnapChat. He requested Me to make a website that's watch (timepiece) related.
+[LuxuryWatchDistro](https://dev-fortitude.github.io/Free-Websites/websites/luxurywatchdistro/index.html): I met this Client on SnapChat. He requested Me to make a website that's watch (timepiece) related.
 
 ---
 
